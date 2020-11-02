@@ -1,0 +1,9 @@
+C:\Projects\KeldWebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Projects\KeldWebApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Projects\KeldWebApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Projects\KeldWebApp\obj\Debug\netcoreapp3.1\KeldWebApp.csprojAssemblyReference.cache
+C:\Projects\KeldWebApp\obj\Debug\netcoreapp3.1\KeldWebApp.AssemblyInfoInputs.cache
+C:\Projects\KeldWebApp\obj\Debug\netcoreapp3.1\KeldWebApp.AssemblyInfo.cs
+C:\Projects\KeldWebApp\obj\Debug\netcoreapp3.1\KeldWebApp.RazorTargetAssemblyInfo.cache
+C:\Projects\KeldWebApp\obj\Debug\netcoreapp3.1\staticwebassets\KeldWebApp.StaticWebAssets.Manifest.cache
+C:\Projects\KeldWebApp\obj\Debug\netcoreapp3.1\staticwebassets\KeldWebApp.StaticWebAssets.xml
